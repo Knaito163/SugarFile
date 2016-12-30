@@ -1,3 +1,4 @@
 # SugarFile
 
-automation
+SMTソルバ Sugar
+-> Automation
